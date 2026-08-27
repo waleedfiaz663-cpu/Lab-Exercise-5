@@ -12,16 +12,22 @@ public class Main {
 
         
         if (c1.equals(c2))
+            
             System.out.println("c1 and c2 are equal.");
 
         if (!c1.equals(c3))
+            
             System.out.println("c1 and c3 are not equal.");
 
         
         if (r1.equals(r2))
+            
             System.out.println("r1 and r2 are equal.");
 
         if (!r1.equals(r3))
+            
             System.out.println("r1 and r3 are not equal.");
+        
     }
+    
 }
